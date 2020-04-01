@@ -28,9 +28,14 @@ Napisz grę "cows and bulls", której zasady są następujące:
 
 # How to use
 
+Easiest way to run is to copy and paste the entire `CowsAndBulls` class into irb in your terminal.
+Then start playing by calling:
+
 `CowsAndBulls.new.play`
 
 # Tests
+
+Tests require RSpec gem installed locally to run:
 
 `gem install rspec`
 
